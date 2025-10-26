@@ -1,0 +1,1407 @@
+ "Personajes": [
+        {
+            pregunta: "¿Quién fue conocido como el hombre ‘muy manso, más que cualquier otro en la Tierra’?",
+            opciones: ["Abraham", "Moisés", "David", "Jonás"],
+            correcta: 1,
+            explicacion: "Moisés fue descrito como extremadamente manso y humilde.",
+            referencia: "Números 12:3"
+        },
+        {
+            pregunta: "¿Quién negó conocer a Jesús tres veces antes del canto del gallo?",
+            opciones: ["Juan", "Tomás", "Pedro", "Andrés"],
+            correcta: 2,
+            explicacion: "Pedro negó a Jesús por miedo, y luego lloró amargamente.",
+            referencia: "Mateo 26:69-75"
+        },
+        {
+            pregunta: "¿Quién fue arrojado al foso de los leones por mantenerse fiel en la adoración?",
+            opciones: ["Daniel", "Ezequiel", "José", "Nehemías"],
+            correcta: 0,
+            explicacion: "Daniel siguió orando a Jehová a pesar de la prohibición real.",
+            referencia: "Daniel 6:10-24"
+        },
+        {
+            pregunta: "¿Quién mató al gigante guerrero llamado Goliat?",
+            opciones: ["Saúl", "David", "Jonatán", "Sansón"],
+            correcta: 1,
+            explicacion: "David confió en Jehová y derribó a Goliat con una honda.",
+            referencia: "1 Samuel 17:45-50"
+        },
+        {
+            pregunta: "¿Quién interpretó los sueños del faraón en Egipto y llegó a ser gobernador?",
+            opciones: ["José", "Moisés", "Aarón", "Samuel"],
+            correcta: 0,
+            explicacion: "José explicó los sueños sobre las vacas gordas y flacas.",
+            referencia: "Génesis 41:14-16, 39-41"
+        },
+        {
+            pregunta: "¿Quién construyó un arca para salvar a su familia durante el Diluvio?",
+            opciones: ["Noé", "Adán", "Job", "Abel"],
+            correcta: 0,
+            explicacion: "Noé obedeció instrucciones detalladas dadas por Dios.",
+            referencia: "Génesis 6:13-22"
+        },
+        {
+            pregunta: "¿Quién es llamado 'el padre de todos los que tienen fe'?",
+            opciones: ["Abraham", "Isaac", "Jacob", "Job"],
+            correcta: 0,
+            explicacion: "Abraham demostró fe ejemplar y obediencia incluso en situaciones difíciles.",
+            referencia: "Gálatas 3:6-9"
+        },
+        {
+            pregunta: "¿Quién fue tragado por un gran pez al huir de una asignación profética?",
+            opciones: ["Jonás", "Elías", "Jeremías", "Nahúm"],
+            correcta: 0,
+            explicacion: "Jonás intentó huir en barco, pero Jehová lo corrigió.",
+            referencia: "Jonás 1:17"
+        },
+        {
+            pregunta: "¿Quién fue la madre de Jesús?",
+            opciones: ["Elisabet", "Marta", "María", "Sara"],
+            correcta: 2,
+            explicacion: "María fue escogida para ser la madre del Mesías prometido.",
+            referencia: "Lucas 1:30-32"
+        },
+        {
+            pregunta: "¿Quién fue el rey que escribió muchos de los salmos e hizo de Jerusalén la capital?",
+            opciones: ["Ezequías", "Salomón", "David", "Saúl"],
+            correcta: 2,
+            explicacion: "David fue pastor, guerrero, rey y compositor de salmos.",
+            referencia: "2 Samuel 5:3-7"
+        },
+        {
+            pregunta: "¿Cuál de los apóstoles era recaudador de impuestos antes de seguir a Jesús?",
+            opciones: ["Mateo", "Andrés", "Felipe", "Bartolomé"],
+            correcta: 0,
+            explicacion: "Mateo también es llamado Leví, recaudador de impuestos.",
+            referencia: "Mateo 9:9"
+        },
+        {
+            pregunta: "¿Qué juez de Israel tenía una fuerza física extraordinaria y luchó contra los filisteos?",
+            opciones: ["Débora", "Gedeón", "Sansón", "Eli"],
+            correcta: 2,
+            explicacion: "Sansón recibió fuerza especial de Jehová.",
+            referencia: "Jueces 16:28-30"
+        },
+        {
+            pregunta: "¿Quién fue el profeta que confrontó a los profetas de Baal en el monte Carmelo?",
+            opciones: ["Isaías", "Elías", "Eliseo", "Malaquías"],
+            correcta: 1,
+            explicacion: "Elías demostró quién era el Dios verdadero.",
+            referencia: "1 Reyes 18:36-39"
+        },
+        {
+            pregunta: "¿Quién era la esposa de Abrahán y madre de Isaac?",
+            opciones: ["Rebeca", "Sara", "Raquel", "Lea"],
+            correcta: 1,
+            explicacion: "Sara tuvo a Isaac cuando ya era mayor.",
+            referencia: "Génesis 17:15-19"
+        },
+        {
+            pregunta: "¿Quién fue el sucesor de Moisés como líder de Israel?",
+            opciones: ["Aarón", "Josué", "Caleb", "Samuel"],
+            correcta: 1,
+            explicacion: "Josué guió a Israel a la Tierra Prometida.",
+            referencia: "Josué 1:1-6"
+        },
+        {
+            pregunta: "¿Quién vendió su primogenitura por un simple plato de lentejas?",
+            opciones: ["Jacob", "Esaú", "Ismael", "Benjamín"],
+            correcta: 1,
+            explicacion: "Esaú no valoró la primogenitura y la cambió por comida.",
+            referencia: "Génesis 25:31-34"
+        },
+        {
+            pregunta: "¿Quién caminó sobre el agua hacia Jesús por un momento?",
+            opciones: ["Juan", "Pedro", "Santiago", "Tomás"],
+            correcta: 1,
+            explicacion: "Pedro caminó sobre el agua, pero se asustó por el viento.",
+            referencia: "Mateo 14:28-31"
+        },
+        {
+            pregunta: "¿Quién fue usado para sacar al pueblo de Israel de Egipto?",
+            opciones: ["Aarón", "Moisés", "José", "Caleb"],
+            correcta: 1,
+            explicacion: "Jehová envió a Moisés ante Faraón para exigir la liberación.",
+            referencia: "Éxodo 3:9-12"
+        },
+        {
+            pregunta: "¿Quién fue conocido por su gran sabiduría y escribió Proverbios y Eclesiastés?",
+            opciones: ["Salomón", "Samuel", "Isaías", "Nehemías"],
+            correcta: 0,
+            explicacion: "Salomón pidió sabiduría para gobernar al pueblo.",
+            referencia: "1 Reyes 3:5-12"
+        },
+        {
+            pregunta: "¿Cuál de estos hombres fue llamado 'amigo de Dios'?",
+            opciones: ["Moisés", "David", "Abraham", "Noé"],
+            correcta: 2,
+            explicacion: "Abraham es llamado amigo de Dios debido a su fe.",
+            referencia: "Santiago 2:23"
+        },
+        {
+            pregunta: "¿Quién ayudó a Jesús a cargar el madero cuando él estaba demasiado débil?",
+            opciones: ["Simón de Cirene", "José de Arimatea", "Nicodemo", "Bartimeo"],
+            correcta: 0,
+            explicacion: "Los soldados obligaron a Simón de Cirene a cargar el madero.",
+            referencia: "Marcos 15:21"
+        },
+        {
+            pregunta: "¿Quién fue resucitado por Jesús después de haber muerto varios días antes?",
+            opciones: ["Lázaro", "Esteban", "Tabita (Dorcas)", "El hijo de la viuda de Sarepta"],
+            correcta: 0,
+            explicacion: "Jesús llamó a Lázaro para que saliera de la tumba.",
+            referencia: "Juan 11:43-44"
+        },
+        {
+            pregunta: "¿Qué mujer mostró fe al acercarse a Jesús y tocar su manto para ser sanada?",
+            opciones: ["Lidia", "Marta", "La mujer con flujo de sangre", "Abigaíl"],
+            correcta: 2,
+            explicacion: "Ella creyó que con solo tocar su manto sería sanada.",
+            referencia: "Marcos 5:25-29"
+        },
+        {
+            pregunta: "¿Quién desafió al faraón con las diez plagas junto con Moisés?",
+            opciones: ["Josué", "Aarón", "Caleb", "Leví"],
+            correcta: 1,
+            explicacion: "Aarón habló repetidamente ante Faraón por orden de Jehová.",
+            referencia: "Éxodo 7:1-5"
+        },
+        {
+            pregunta: "¿Quién fue el profeta que ungió a David como rey cuando todavía era un pastor joven?",
+            opciones: ["Samuel", "Elías", "Eliseo", "Natán"],
+            correcta: 0,
+            explicacion: "Samuel fue enviado a la casa de Isaí para ungir a David.",
+            referencia: "1 Samuel 16:1-13"
+        },
+        {
+            pregunta: "¿Quién fue el apóstol que al principio perseguía a los cristianos pero luego se convirtió en misionero?",
+            opciones: ["Andrés", "Pablo", "Felipe", "Bernabé"],
+            correcta: 1,
+            explicacion: "Pablo (antes Saulo) perseguía a los cristianos hasta que tuvo una visión de Jesús.",
+            referencia: "Hechos 9:1-6, 20"
+        },
+        {
+            pregunta: "¿Quién interpretó la escritura misteriosa en la pared durante el banquete del rey Belsasar?",
+            opciones: ["Daniel", "Jeremías", "Ezequiel", "Isaías"],
+            correcta: 0,
+            explicacion: "Daniel explicó el mensaje 'Mené, Mené, Tekel y Parsín'.",
+            referencia: "Daniel 5:25-28"
+        },
+        {
+            pregunta: "¿Quién fue el primer mártir cristiano registrado, apedreado por su fe?",
+            opciones: ["Santiago", "Esteban", "Felipe", "Timoteo"],
+            correcta: 1,
+            explicacion: "Esteban dio testimonio sobre Jesús y fue ejecutado a pedradas.",
+            referencia: "Hechos 7:59-60"
+        },
+        {
+            pregunta: "¿Qué rey de Judá destruyó la idolatría y restauró la adoración verdadera al notar que el templo estaba descuidado?",
+            opciones: ["Acaz", "Manasés", "Josías", "Jeroboán"],
+            correcta: 2,
+            explicacion: "Josías fue celoso por la adoración pura y eliminó prácticas falsas.",
+            referencia: "2 Reyes 22:3-7; 23:1-7"
+        },
+        {
+            pregunta: "¿Quién fue llamado ‘varón de dolores’ por las profecías, debido a su sufrimiento por otros?",
+            opciones: ["Jeremías", "Jesús", "Job", "Isaías"],
+            correcta: 1,
+            explicacion: "Las profecías describen al siervo sufriente que carga las faltas de otros.",
+            referencia: "Isaías 53:3-5"
+        }
+    ],
+
+    "Profecías": [
+        {
+            pregunta: "¿Qué profecía mesiánica decía que el Mesías nacería en Belén?",
+            opciones: [
+                "Isaías 53:5",
+                "Miqueas 5:2",
+                "Zacarías 9:9",
+                "Salmo 22:1"
+            ],
+            correcta: 1,
+            explicacion: "Miqueas menciona Belén como el lugar de origen del gobernante prometido.",
+            referencia: "Miqueas 5:2"
+        },
+        {
+            pregunta: "Según el profeta Isaías, ¿qué tipo de muerte iba a sufrir el siervo sufriente?",
+            opciones: [
+                "Moriría de viejo en paz",
+                "Sería ignorado y moriría en el desierto",
+                "Sería traspasado por nuestras ofensas",
+                "Sería coronado sin sufrir"
+            ],
+            correcta: 2,
+            explicacion: "Isaías habló de alguien herido por nuestras transgresiones.",
+            referencia: "Isaías 53:5"
+        },
+        {
+            pregunta: "¿Quién profetizó una nueva alianza en la que la ley de Dios estaría escrita en el corazón del pueblo?",
+            opciones: ["Ezequiel", "Jeremías", "Oseas", "Joel"],
+            correcta: 1,
+            explicacion: "Jeremías habló de un nuevo pacto con el pueblo.",
+            referencia: "Jeremías 31:31-33"
+        },
+        {
+            pregunta: "En Daniel capítulo 2, la estatua de varios metales representa...",
+            opciones: [
+                "Los diferentes clanes de Israel",
+                "La sucesión de reinos humanos",
+                "Los niveles del templo",
+                "Las doce tribus"
+            ],
+            correcta: 1,
+            explicacion: "Cada parte (oro, plata, cobre, hierro...) simboliza reinos que se suceden.",
+            referencia: "Daniel 2:31-45"
+        },
+        {
+            pregunta: "¿Qué profeta anunció que un rey justo vendría 'montado en un burro'?",
+            opciones: ["Habacuc", "Nahúm", "Zacarías", "Ageo"],
+            correcta: 2,
+            explicacion: "Zacarías describió una entrada humilde, no militar.",
+            referencia: "Zacarías 9:9"
+        },
+        {
+            pregunta: "¿Quién profetizó que Jehová derramaría su espíritu sobre 'toda clase de personas'?",
+            opciones: ["Joel", "Abdías", "Jonás", "Sofonías"],
+            correcta: 0,
+            explicacion: "Joel habló de hijos e hijas profetizando.",
+            referencia: "Joel 2:28-29"
+        },
+        {
+            pregunta: "¿Qué profeta anunció que Jerusalén y su templo serían destruidos por causa de la infidelidad?",
+            opciones: ["Eliseo", "Jeremías", "Amós", "Jonás"],
+            correcta: 1,
+            explicacion: "Jeremías advirtió repetidamente sobre la caída de Jerusalén.",
+            referencia: "Jeremías 7:30-34"
+        },
+        {
+            pregunta: "¿Cuál profeta tuvo una visión de un valle lleno de huesos secos que volvían a la vida?",
+            opciones: ["Isaías", "Ezequiel", "Hageo", "Malaquías"],
+            correcta: 1,
+            explicacion: "Ezequiel vio a Israel representado como huesos que recobraban vida.",
+            referencia: "Ezequiel 37:1-14"
+        },
+        {
+            pregunta: "¿Quién profetizó sobre 'el día de Jehová', un tiempo de juicio contra las naciones?",
+            opciones: ["Abdías", "Juan", "Lucas", "Apolo"],
+            correcta: 0,
+            explicacion: "Abdías habló del día en que Jehová ajustaría cuentas con las naciones enemigas.",
+            referencia: "Abdías 15"
+        },
+        {
+            pregunta: "En Isaías, ¿cómo se describe al niño que sería llamado ‘Príncipe de Paz’?",
+            opciones: [
+                "Un rey militar de mano dura",
+                "Un libertador político únicamente",
+                "Un hijo dado por Dios con autoridad",
+                "Un ángel, no un ser humano"
+            ],
+            correcta: 2,
+            explicacion: "Isaías habló de un hijo gobernante que traería paz verdadera.",
+            referencia: "Isaías 9:6-7"
+        },
+        {
+            pregunta: "¿Qué profeta anunció que el Mesías sería traicionado por '30 piezas de plata'?",
+            opciones: ["Zacarías", "Malaquías", "Nahúm", "Habacuc"],
+            correcta: 0,
+            explicacion: "Zacarías menciona esa cantidad específica como pago.",
+            referencia: "Zacarías 11:12-13"
+        },
+        {
+            pregunta: "El profeta Amós denunció a Israel por...",
+            opciones: [
+                "Construir demasiados altares a Jehová",
+                "Tratar injustamente a los pobres",
+                "Trabajar demasiado en el campo",
+                "No tener un rey humano"
+            ],
+            correcta: 1,
+            explicacion: "Amós condenó la opresión, el soborno y la injusticia social.",
+            referencia: "Amós 5:11-12, 24"
+        },
+        {
+            pregunta: "¿Cuál profeta anunció que un mensajero prepararía el camino delante del Señor?",
+            opciones: ["Malaquías", "Oseas", "Jonás", "Habacuc"],
+            correcta: 0,
+            explicacion: "Malaquías habló de un mensajero que prepararía el camino, entendido como Juan el Bautista.",
+            referencia: "Malaquías 3:1"
+        },
+        {
+            pregunta: "Según Isaías, ¿cómo reaccionarían muchos ante el siervo sufriente?",
+            opciones: [
+                "Lo coronarían rey inmediatamente",
+                "Lo honrarían por su belleza",
+                "Lo despreciarían y lo evitarían",
+                "Le construirían un templo"
+            ],
+            correcta: 2,
+            explicacion: "Se profetiza rechazo y sufrimiento.",
+            referencia: "Isaías 53:3"
+        },
+        {
+            pregunta: "En Daniel, ¿qué significaba la piedra que golpeó la estatua y la desmenuzó?",
+            opciones: [
+                "El templo de Jerusalén",
+                "Un ejército humano",
+                "El Reino establecido por Dios",
+                "Una alianza política temporal"
+            ],
+            correcta: 2,
+            explicacion: "Esa piedra representa el dominio de Dios que reemplaza a los reinos humanos.",
+            referencia: "Daniel 2:44-45"
+        },
+        {
+            pregunta: "¿Cuál profeta fue enviado específicamente a advertir a Nínive?",
+            opciones: ["Jonás", "Habacuc", "Sofonías", "Hageo"],
+            correcta: 0,
+            explicacion: "Jonás fue enviado a una potencia extranjera, Asiria, no solo a Israel.",
+            referencia: "Jonás 1:1-2"
+        },
+        {
+            pregunta: "¿Quién profetizó que habría un 'pacto de paz' y que Jehová quitaría el corazón de piedra y daría uno de carne?",
+            opciones: ["Ezequiel", "Joel", "Zacarías", "Ageo"],
+            correcta: 0,
+            explicacion: "Ezequiel habló de un cambio interno profundo en el pueblo.",
+            referencia: "Ezequiel 11:19-20"
+        },
+        {
+            pregunta: "¿Cuál profeta denunció que los sacerdotes estaban enseñando cosas torcidas y que el pueblo amaba que fuera así?",
+            opciones: ["Jeremías", "Jonás", "Oseas", "Malaquías"],
+            correcta: 0,
+            explicacion: "Jeremías criticó a los líderes religiosos corruptos.",
+            referencia: "Jeremías 5:30-31"
+        },
+        {
+            pregunta: "¿Qué profeta vio una visión de 'un carro con ruedas dentro de ruedas' lleno de ojos?",
+            opciones: ["Isaías", "Ezequiel", "Daniel", "Miqueas"],
+            correcta: 1,
+            explicacion: "Ezequiel tuvo visiones simbólicas muy detalladas sobre la gloria y el movimiento de Jehová.",
+            referencia: "Ezequiel 1:15-21"
+        },
+        {
+            pregunta: "¿Qué profeta predijo la venida del 'día ardiente como un horno', un día de ajuste de cuentas?",
+            opciones: ["Malaquías", "Habacuc", "Abdías", "Jonás"],
+            correcta: 0,
+            explicacion: "Malaquías habló de juicio contra los que hacen el mal.",
+            referencia: "Malaquías 4:1"
+        },
+        {
+            pregunta: "¿Cuál profeta vio bestias simbólicas que representaban potencias políticas mundiales?",
+            opciones: ["Daniel", "Oseas", "Hageo", "Joel"],
+            correcta: 0,
+            explicacion: "Daniel vio animales simbólicos que representaban reinos sucesivos.",
+            referencia: "Daniel 7:1-8, 17"
+        },
+        {
+            pregunta: "¿Qué profeta habló de un futuro en el que las naciones forjarían sus espadas en arados y no aprenderían más la guerra?",
+            opciones: ["Nahúm", "Miqueas", "Hageo", "Abdías"],
+            correcta: 1,
+            explicacion: "Miqueas habló de paz verdadera entre las naciones bajo la dirección de Dios.",
+            referencia: "Miqueas 4:3"
+        },
+        {
+            pregunta: "¿Qué profeta dijo que Jehová levantaría un 'renuevo justo' del linaje de David que reinaría sabiamente?",
+            opciones: ["Jeremías", "Habacuc", "Sofonías", "Ageo"],
+            correcta: 0,
+            explicacion: "Jeremías anunció un rey justo de la línea de David.",
+            referencia: "Jeremías 23:5-6"
+        },
+        {
+            pregunta: "¿Quién profetizó que el pueblo de Dios sería reunido de regreso del exilio como ovejas cuidadas por un solo pastor?",
+            opciones: ["Ezequiel", "Nahúm", "Amós", "Abdías"],
+            correcta: 0,
+            explicacion: "Ezequiel habló de un solo pastor verdadero que cuidaría a las ovejas.",
+            referencia: "Ezequiel 34:11, 23-24"
+        },
+        {
+            pregunta: "¿Qué profeta habló de una 'piedra angular' colocada por Dios, y que quien confiara en ella no sería decepcionado?",
+            opciones: ["Isaías", "Joel", "Jonás", "Nahúm"],
+            correcta: 0,
+            explicacion: "Isaías describió una piedra probada que Dios pondría como base firme.",
+            referencia: "Isaías 28:16"
+        },
+        {
+            pregunta: "¿Cuál profeta describió un sufrimiento nacional comparándolo con dolores de parto, pero prometió liberación al final?",
+            opciones: ["Miqueas", "Habacuc", "Sofonías", "Oseas"],
+            correcta: 0,
+            explicacion: "Miqueas comparó la angustia de Judá con los dolores de parto.",
+            referencia: "Miqueas 4:9-10"
+        },
+        {
+            pregunta: "¿Qué profeta se quejó ante Dios sobre la injusticia y recibió la respuesta de que ‘el justo vivirá por su fidelidad’?",
+            opciones: ["Habacuc", "Amós", "Jonás", "Malaquías"],
+            correcta: 0,
+            explicacion: "Habacuc preguntó por qué prosperaban los malvados; Jehová le respondió con esa famosa declaración.",
+            referencia: "Habacuc 1:2-4; 2:4"
+        },
+        {
+            pregunta: "¿Quién profetizó específicamente contra Edom, diciendo que sería humillado por su orgullo?",
+            opciones: ["Abdías", "Joel", "Oseas", "Zacarías"],
+            correcta: 0,
+            explicacion: "Abdías habló contra Edom por su orgullo y violencia.",
+            referencia: "Abdías 1-4"
+        },
+        {
+            pregunta: "¿Qué profeta anunció que Jehová haría temblar 'todas las naciones' y llenaría su casa de gloria?",
+            opciones: ["Hageo", "Nahúm", "Sofonías", "Ageo"],
+            correcta: 3,
+            explicacion: "Ageo animó a reconstruir el templo y habló de gloria futura.",
+            referencia: "Ageo 2:6-9"
+        },
+        {
+            pregunta: "¿Qué profeta dijo que Jehová mismo sería un pastor que buscaría a sus ovejas perdidas y las cuidaría?",
+            opciones: ["Ezequiel", "Oseas", "Malaquías", "Jonás"],
+            correcta: 0,
+            explicacion: "Ezequiel usa la imagen del Pastor verdadero que reúne a las ovejas dispersas.",
+            referencia: "Ezequiel 34:11-16"
+        }
+    ],
+
+    "Evangelios": [
+        {
+            pregunta: "¿Qué milagro hizo Jesús en las bodas de Caná?",
+            opciones: [
+                "Calmó una tormenta",
+                "Multiplicó panes y peces",
+                "Resucitó a Lázaro",
+                "Convirtió agua en vino"
+            ],
+            correcta: 3,
+            explicacion: "Ese fue el primer milagro registrado de Jesús.",
+            referencia: "Juan 2:1-11"
+        },
+        {
+            pregunta: "¿Quién traicionó a Jesús entregándolo a las autoridades religiosas?",
+            opciones: ["Judas Iscariote", "Herodes", "Caifás", "Pilato"],
+            correcta: 0,
+            explicacion: "Judas lo entregó por dinero.",
+            referencia: "Mateo 26:14-16"
+        },
+        {
+            pregunta: "¿Qué mandato dio Jesús a sus discípulos conocido como ‘la gran comisión’?",
+            opciones: [
+                "Prediquen y hagan discípulos de gente de todas las naciones",
+                "Eviten hablar con gente de otras naciones",
+                "Construyan un templo en Jerusalén",
+                "No salgan de Galilea"
+            ],
+            correcta: 0,
+            explicacion: "Jesús los envió a hacer discípulos en todas las naciones.",
+            referencia: "Mateo 28:19-20"
+        },
+        {
+            pregunta: "¿Quién fue el precursor que preparó el camino para Jesús predicando arrepentimiento?",
+            opciones: ["Juan el Bautista", "Pedro", "Andrés", "Santiago"],
+            correcta: 0,
+            explicacion: "Juan el Bautista anunció la llegada del Mesías.",
+            referencia: "Mateo 3:1-3"
+        },
+        {
+            pregunta: "¿Qué apóstol caminó brevemente sobre el agua hacia Jesús?",
+            opciones: ["Juan", "Pedro", "Tomás", "Felipe"],
+            correcta: 1,
+            explicacion: "Pedro caminó sobre el agua hasta que sintió miedo.",
+            referencia: "Mateo 14:28-31"
+        },
+        {
+            pregunta: "¿Qué le dijo Jesús a la tormenta cuando los discípulos estaban asustados en la barca?",
+            opciones: [
+                "‘¡Que caiga fuego del cielo!’",
+                "‘Paz, cálmate’",
+                "‘Ustedes arreglen esto’",
+                "‘No hay nada que temer, sigan remando’"
+            ],
+            correcta: 1,
+            explicacion: "Jesús calmó el viento y el mar con una orden.",
+            referencia: "Marcos 4:39-41"
+        },
+        {
+            pregunta: "¿Cuál fue el mensaje central que Jesús predicaba al inicio de su ministerio?",
+            opciones: [
+                "El Reino de los cielos se ha acercado",
+                "Roma caerá pronto",
+                "Debemos rebelarnos políticamente",
+                "La riqueza garantiza aprobación de Dios"
+            ],
+            correcta: 0,
+            explicacion: "Jesús predicó las buenas noticias del Reino.",
+            referencia: "Mateo 4:17; Marcos 1:14-15"
+        },
+        {
+            pregunta: "¿Qué discípulo dudó de la resurrección de Jesús hasta verlo personalmente?",
+            opciones: ["Juan", "Tomás", "Felipe", "Mateo"],
+            correcta: 1,
+            explicacion: "Tomás dijo que no creería hasta ver y tocar las heridas.",
+            referencia: "Juan 20:24-29"
+        },
+        {
+            pregunta: "¿Qué mujer escuchó a Jesús en vez de distraerse con los quehaceres, y fue elogiada por eso?",
+            opciones: ["Marta", "María (hermana de Marta)", "Salomé", "Lidia"],
+            correcta: 1,
+            explicacion: "Jesús dijo que ella había escogido la mejor parte.",
+            referencia: "Lucas 10:38-42"
+        },
+        {
+            pregunta: "¿Qué apóstol negó a Jesús tres veces antes del canto del gallo?",
+            opciones: ["Juan", "Pedro", "Santiago", "Andrés"],
+            correcta: 1,
+            explicacion: "Pedro tuvo miedo y lo negó, luego lloró amargamente.",
+            referencia: "Mateo 26:69-75"
+        },
+        {
+            pregunta: "¿Cuál fue el motivo oficial por el que las autoridades entregaron a Jesús a los romanos?",
+            opciones: [
+                "Decían que era rey y una amenaza política",
+                "No pagaba impuestos",
+                "No respetaba el sábado",
+                "Era extranjero"
+            ],
+            correcta: 0,
+            explicacion: "Lo acusaron de proclamarse rey, algo que Roma veía como amenaza.",
+            referencia: "Juan 19:12-15"
+        },
+        {
+            pregunta: "¿Quién pidió el cuerpo de Jesús para enterrarlo en su propia tumba nueva?",
+            opciones: [
+                "Herodes Antipas",
+                "Poncio Pilato",
+                "José de Arimatea",
+                "Nicodemo"
+            ],
+            correcta: 2,
+            explicacion: "José de Arimatea era discípulo de Jesús, aunque en secreto.",
+            referencia: "Mateo 27:57-60"
+        },
+        {
+            pregunta: "¿Cuál fue la primera tentación registrada cuando el Diablo probó a Jesús en el desierto?",
+            opciones: [
+                "Adorar al Diablo a cambio de reinos",
+                "Lanzarse desde el templo",
+                "Convertir piedras en pan",
+                "Negar a Juan el Bautista"
+            ],
+            correcta: 2,
+            explicacion: "El Diablo trató de usar el hambre de Jesús en su contra.",
+            referencia: "Mateo 4:1-4"
+        },
+        {
+            pregunta: "¿Cómo describió Jesús el mandamiento más importante de la Ley?",
+            opciones: [
+                "No robar",
+                "No matar",
+                "Amar a Jehová con todo tu corazón",
+                "Ofrecer sacrificios de animales"
+            ],
+            correcta: 2,
+            explicacion: "Jesús dijo que amar a Jehová es el más grande mandamiento.",
+            referencia: "Mateo 22:37-38"
+        },
+        {
+            pregunta: "¿Qué milagro hizo Jesús con solo cinco panes y dos pescados?",
+            opciones: [
+                "Alimentó a unas 5,000 personas",
+                "Creó maná del cielo",
+                "Curó a un ciego",
+                "Volvió a la vida a un niño"
+            ],
+            correcta: 0,
+            explicacion: "Jesús multiplicó el alimento para miles.",
+            referencia: "Mateo 14:15-21; Juan 6:9-13"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús que tenían que hacer las personas que querían ser sus discípulos?",
+            opciones: [
+                "Buscar gloria personal",
+                "Negarse a sí mismos y seguirlo",
+                "Reunir poder político",
+                "Aprender a pelear con espada"
+            ],
+            correcta: 1,
+            explicacion: "Jesús enfatizó el sacrificio personal y el seguimiento leal.",
+            referencia: "Mateo 16:24"
+        },
+        {
+            pregunta: "¿Qué sentimiento mostró Jesús cuando vio a la multitud que parecía ovejas sin pastor?",
+            opciones: [
+                "Ira",
+                "Desprecio",
+                "Compasión",
+                "Indiferencia"
+            ],
+            correcta: 2,
+            explicacion: "Jesús tuvo compasión y enseñó muchas cosas.",
+            referencia: "Marcos 6:34"
+        },
+        {
+            pregunta: "¿Qué respondió Jesús cuando le preguntaron cuál era 'el más grande en el Reino de los cielos'?",
+            opciones: [
+                "El más fuerte físicamente",
+                "El que done más dinero",
+                "El más sabio intelectualmente",
+                "El que se hace humilde como un niño"
+            ],
+            correcta: 3,
+            explicacion: "Jesús usó a un niño como ejemplo de humildad.",
+            referencia: "Mateo 18:1-4"
+        },
+        {
+            pregunta: "¿Qué hizo Jesús cuando vio a los cambistas comerciando dentro del templo?",
+            opciones: [
+                "Los felicitó por recaudar fondos",
+                "Les pidió un porcentaje",
+                "Los expulsó y volcó las mesas",
+                "Se quedó callado"
+            ],
+            correcta: 2,
+            explicacion: "Dijo que habían convertido la casa de su Padre en una cueva de ladrones.",
+            referencia: "Mateo 21:12-13; Juan 2:13-17"
+        },
+        {
+            pregunta: "¿Quién subió a un árbol de sicómoro para poder ver a Jesús pasar?",
+            opciones: ["Nicodemo", "Zaqueo", "Bartimeo", "Leví/Mateo"],
+            correcta: 1,
+            explicacion: "Zaqueo era bajo de estatura y quería ver a Jesús.",
+            referencia: "Lucas 19:1-4"
+        },
+        {
+            pregunta: "¿Qué le dijo Jesús a la hija de Jairo cuando la resucitó?",
+            opciones: [
+                "‘Niña, levántate’",
+                "‘No tengas miedo, come primero’",
+                "‘No estaba muerta, solo dormía’",
+                "‘Tu fe te condena’"
+            ],
+            correcta: 0,
+            explicacion: "Jesús tomó su mano y la levantó.",
+            referencia: "Marcos 5:35-42"
+        },
+        {
+            pregunta: "¿Qué le dijo Jesús a la mujer sorprendida en adulterio cuando la trajeron ante él?",
+            opciones: [
+                "‘Apedréenla’",
+                "‘No tengo tiempo para esto’",
+                "‘Yo tampoco te condeno. Vete y no peques más’",
+                "‘Páguenme y la libero’"
+            ],
+            correcta: 2,
+            explicacion: "Jesús mostró misericordia y la llamó a cambiar.",
+            referencia: "Juan 8:3-11"
+        },
+        {
+            pregunta: "¿Qué prometió Jesús a los cansados y agobiados que fueran a él?",
+            opciones: [
+                "Riquezas materiales",
+                "Venganza contra sus enemigos",
+                "Descanso",
+                "Posiciones de autoridad"
+            ],
+            correcta: 2,
+            explicacion: "Jesús ofreció alivio espiritual y emocional.",
+            referencia: "Mateo 11:28-30"
+        },
+        {
+            pregunta: "¿Qué le dijo Jesús a Nicodemo sobre ‘nacer de nuevo’?",
+            opciones: [
+                "Significa volver al vientre literal",
+                "Significa ser transformado por espíritu",
+                "Significa hacer más rituales",
+                "Significa unirse al Sanedrín"
+            ],
+            correcta: 1,
+            explicacion: "Jesús habló de nacer del agua y del espíritu.",
+            referencia: "Juan 3:1-8"
+        },
+        {
+            pregunta: "¿Qué hizo Jesús cuando sus discípulos discutieron sobre quién era el más importante?",
+            opciones: [
+                "Los dejó de hablar",
+                "Les dijo que el mayor debía hacerse siervo",
+                "Nombró un 'líder oficial'",
+                "Les pidió más donaciones"
+            ],
+            correcta: 1,
+            explicacion: "Jesús enseñó que la grandeza verdadera es servir.",
+            referencia: "Lucas 22:24-27"
+        },
+        {
+            pregunta: "¿Qué comparación usó Jesús para enseñar que debemos dejar brillar una buena conducta?",
+            opciones: [
+                "Una puerta cerrada",
+                "Una semilla en el desierto",
+                "Una luz puesta sobre un candelero",
+                "Una red rota"
+            ],
+            correcta: 2,
+            explicacion: "Dijo que la luz no se pone debajo de un cajón.",
+            referencia: "Mateo 5:14-16"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús que ‘mancha’ a una persona?",
+            opciones: [
+                "No lavarse las manos antes de comer",
+                "Comer pan sin levadura",
+                "Lo que sale del corazón y la boca",
+                "Usar ropa vieja"
+            ],
+            correcta: 2,
+            explicacion: "Jesús enseñó que el problema principal es lo que sale del corazón.",
+            referencia: "Mateo 15:10-20"
+        },
+        {
+            pregunta: "¿Cuál fue la última orden directa que Jesús le dio a Pedro en el relato del Evangelio de Juan?",
+            opciones: [
+                "‘Haz milagros más grandes que los míos’",
+                "‘Defiende tu derecho con espada’",
+                "‘Sígueme’",
+                "‘No vuelvas a hablar con Tomás’"
+            ],
+            correcta: 2,
+            explicacion: "Después de restaurar a Pedro, Jesús volvió a invitarlo a seguirlo.",
+            referencia: "Juan 21:19-22"
+        },
+        {
+            pregunta: "¿Qué título aceptó Jesús cuando el sumo sacerdote le preguntó si era el Hijo de Dios?",
+            opciones: [
+                "Lo negó todo",
+                "Respondió vagamente y cambió de tema",
+                "Dijo que era solo un profeta normal",
+                "Confirmó que sí, aunque sabiendo que eso causaría su condena"
+            ],
+            correcta: 3,
+            explicacion: "Esa confesión se usó para justificar la sentencia.",
+            referencia: "Mateo 26:63-66"
+        }
+    ],
+
+    "Historia de Israel": [
+        {
+            pregunta: "¿Quién condujo a Israel fuera de la esclavitud en Egipto, con las 10 plagas y la apertura del mar Rojo?",
+            opciones: ["José", "Moisés", "Aarón", "Josué"],
+            correcta: 1,
+            explicacion: "Jehová usó a Moisés para confrontar a Faraón y sacar al pueblo.",
+            referencia: "Éxodo 3:9-12; Éxodo 14:21-31"
+        },
+        {
+            pregunta: "¿Quién tomó el mando después de Moisés y llevó al pueblo a la Tierra Prometida?",
+            opciones: ["Caleb", "Samuel", "Josué", "Sansón"],
+            correcta: 2,
+            explicacion: "Josué fue confirmado como sucesor de Moisés.",
+            referencia: "Josué 1:1-6"
+        },
+        {
+            pregunta: "¿Cómo cayó la ciudad de Jericó ante Israel?",
+            opciones: [
+                "Por negociación diplomática",
+                "Por hambre durante años",
+                "Los muros cayeron después de rodearla y tocar trompetas",
+                "Fue entregada voluntariamente por su rey"
+            ],
+            correcta: 2,
+            explicacion: "Jehová dio instrucciones específicas: marchar y tocar trompetas.",
+            referencia: "Josué 6:2-5, 15-20"
+        },
+        {
+            pregunta: "¿Quién fue el primer rey humano ungido sobre Israel?",
+            opciones: ["Saúl", "David", "Salomón", "Gedeón"],
+            correcta: 0,
+            explicacion: "Saúl fue ungido por el profeta Samuel.",
+            referencia: "1 Samuel 10:1"
+        },
+        {
+            pregunta: "¿Quién hizo de Jerusalén la capital y unificó el reino?",
+            opciones: ["Samuel", "David", "Salomón", "Jeroboán"],
+            correcta: 1,
+            explicacion: "David conquistó Jerusalén y la hizo capital.",
+            referencia: "2 Samuel 5:6-10"
+        },
+        {
+            pregunta: "¿Quién construyó el primer templo permanente para Jehová en Jerusalén?",
+            opciones: ["David", "Salomón", "Ezequías", "Nehemías"],
+            correcta: 1,
+            explicacion: "Salomón construyó el templo usando materiales preparados en gran parte por David.",
+            referencia: "1 Reyes 6:1-14"
+        },
+        {
+            pregunta: "Después del rey Salomón, ¿qué ocurrió con el reino de Israel?",
+            opciones: [
+                "Se volvió imperio mundial",
+                "Se dividió en dos reinos",
+                "Dejó de existir por completo",
+                "Fue absorbido por Egipto"
+            ],
+            correcta: 1,
+            explicacion: "El reino se dividió en el reino del norte (Israel) y el del sur (Judá).",
+            referencia: "1 Reyes 11:31-35; 12:16-20"
+        },
+        {
+            pregunta: "¿Cuál de los siguientes profetas confrontó al rey Acab y a la reina Jezabel por su idolatría?",
+            opciones: ["Eliseo", "Jeremías", "Elías", "Isaías"],
+            correcta: 2,
+            explicacion: "Elías desafió el culto a Baal promovido por la casa real.",
+            referencia: "1 Reyes 18:17-19"
+        },
+        {
+            pregunta: "¿Qué ciudad de Judá fue destruida por Babilonia cuando el pueblo no escuchó las advertencias?",
+            opciones: ["Hebrón", "Jericó", "Jerusalén", "Samaria"],
+            correcta: 2,
+            explicacion: "Jerusalén y su templo fueron destruidos por los babilonios.",
+            referencia: "2 Reyes 25:8-10"
+        },
+        {
+            pregunta: "¿Por qué fueron llevados muchos israelitas al exilio en Babilonia?",
+            opciones: [
+                "Por falta de talento militar",
+                "Porque querían comercio exterior",
+                "Por desobedecer a Jehová y practicar idolatría",
+                "Porque Babilonia necesitaba trabajadores agrícolas"
+            ],
+            correcta: 2,
+            explicacion: "Jehová permitió el exilio como disciplina por la infidelidad.",
+            referencia: "2 Crónicas 36:15-21"
+        },
+        {
+            pregunta: "¿Quién interpretó sueños en Babilonia y llegó a una posición alta durante el exilio?",
+            opciones: ["Ezequiel", "Jeremías", "Daniel", "Nehemías"],
+            correcta: 2,
+            explicacion: "Daniel sirvió en la corte de Babilonia y luego en Medo-Persia.",
+            referencia: "Daniel 1:17-21; 2:26-28, 48"
+        },
+        {
+            pregunta: "¿Qué rey extranjero permitió que los judíos regresaran a su tierra y reconstruyeran el templo?",
+            opciones: ["Faraón Necao", "Ciro de Persia", "Nabucodonosor", "Tiglat-pileser"],
+            correcta: 1,
+            explicacion: "Ciro emitió un decreto para que regresaran y reedificaran la casa de Dios.",
+            referencia: "Esdras 1:1-4"
+        },
+        {
+            pregunta: "¿Quién ayudó a reconstruir los muros de Jerusalén a pesar de la oposición de los enemigos?",
+            opciones: ["Nehemías", "Esdras", "Ester", "Josías"],
+            correcta: 0,
+            explicacion: "Nehemías organizó al pueblo para trabajar con una mano y defenderse con la otra.",
+            referencia: "Nehemías 4:16-18"
+        },
+        {
+            pregunta: "¿Qué juez famoso derrotó a los madianitas con solo 300 hombres?",
+            opciones: ["Sansón", "Gedeón", "Samuel", "Otoniel"],
+            correcta: 1,
+            explicacion: "Gedeón ganó con un pequeño grupo para mostrar que la victoria venía de Jehová.",
+            referencia: "Jueces 7:2-7, 19-22"
+        },
+        {
+            pregunta: "¿Quién fue la única jueza mujer que dirigió a Israel y dio órdenes militares a Barac?",
+            opciones: ["Rut", "Débora", "Abigaíl", "Ester"],
+            correcta: 1,
+            explicacion: "Débora era profetisa y jueza en Israel.",
+            referencia: "Jueces 4:4-9"
+        },
+        {
+            pregunta: "¿Por qué castigó Jehová a Saúl y rechazó su dinastía?",
+            opciones: [
+                "Porque era alto",
+                "Porque atacó a los filisteos",
+                "Porque desobedeció instrucciones claras de Jehová",
+                "Porque se negó a reinar"
+            ],
+            correcta: 2,
+            explicacion: "Saúl no obedeció completamente las instrucciones de Jehová respecto a Amalec.",
+            referencia: "1 Samuel 15:22-23"
+        },
+        {
+            pregunta: "¿Qué rey hizo grandes preparativos para el templo, aunque no se le permitió construirlo?",
+            opciones: ["David", "Salomón", "Asa", "Ezequías"],
+            correcta: 0,
+            explicacion: "David reunió materiales y planos, pero la obra la hizo Salomón.",
+            referencia: "1 Crónicas 28:11-19; 29:1-5"
+        },
+        {
+            pregunta: "¿Qué rey de Judá restauró la adoración verdadera y rechazó la idolatría, incluyendo la serpiente de cobre que la gente adoraba?",
+            opciones: ["Acaz", "Ezequías", "Manasés", "Uzías"],
+            correcta: 1,
+            explicacion: "Ezequías purificó el templo y destruyó objetos idolátricos.",
+            referencia: "2 Reyes 18:1-6"
+        },
+        {
+            pregunta: "¿Quién fue la reina judía que arriesgó su vida para interceder por su pueblo ante el rey persa?",
+            opciones: ["Débora", "Abigaíl", "Ester", "Rut"],
+            correcta: 2,
+            explicacion: "Ester habló ante el rey Asuero para evitar una masacre.",
+            referencia: "Ester 4:13-16; 7:1-4"
+        },
+        {
+            pregunta: "¿Qué suceso marcó la salida oficial de Israel de Egipto?",
+            opciones: [
+                "El Arca del Pacto apareció",
+                "Las 10 plagas quebraron a Egipto",
+                "Se firmó paz con Faraón",
+                "El Faraón se unió a Moisés"
+            ],
+            correcta: 1,
+            explicacion: "Jehová usó plagas poderosas para obligar a Faraón.",
+            referencia: "Éxodo 7–12"
+        },
+        {
+            pregunta: "¿Qué recibieron los israelitas en el monte Sinaí poco después de salir de Egipto?",
+            opciones: [
+                "Una banda de música",
+                "Instrucciones médicas modernas",
+                "La Ley, incluidos los Diez Mandamientos",
+                "Permiso para regresar a Egipto"
+            ],
+            correcta: 2,
+            explicacion: "Jehová les dio una ley que regulaba la adoración y la vida diaria.",
+            referencia: "Éxodo 19:3-6; Éxodo 20:1-17"
+        },
+        {
+            pregunta: "¿Qué hizo el pueblo cuando Moisés tardó en bajar del monte Sinaí?",
+            opciones: [
+                "Se mantuvieron fieles y esperaron en silencio",
+                "Formaron un becerro de oro y lo adoraron",
+                "Se fueron a Canaán solos",
+                "Formaron un nuevo sacerdocio sin ídolos"
+            ],
+            correcta: 1,
+            explicacion: "Fabricaron un becerro de oro y lo adoraron como si fuera su libertador.",
+            referencia: "Éxodo 32:1-6"
+        },
+        {
+            pregunta: "¿Qué tribu fue apartada para el servicio sacerdotal en Israel?",
+            opciones: ["Judá", "Leví", "Benjamín", "Gad"],
+            correcta: 1,
+            explicacion: "Los levitas fueron escogidos para servir en las funciones del tabernáculo y luego el templo.",
+            referencia: "Números 3:5-10"
+        },
+        {
+            pregunta: "¿Durante la época de los jueces, qué patrón se repetía una y otra vez con Israel?",
+            opciones: [
+                "Fidelidad total sin errores",
+                "Idolatría → opresión enemiga → clamor a Jehová → liberación",
+                "Democracia estable y paz continua",
+                "Imperio mundial de Israel"
+            ],
+            correcta: 1,
+            explicacion: "El pueblo repetía ese ciclo espiritual.",
+            referencia: "Jueces 2:11-19"
+        },
+        {
+            pregunta: "¿Quién mató a Goliat y después llegó a ser rey?",
+            opciones: ["Jonatán", "David", "Abner", "Saúl"],
+            correcta: 1,
+            explicacion: "David derrotó a Goliat cuando aún era joven pastor.",
+            referencia: "1 Samuel 17:45-50"
+        },
+        {
+            pregunta: "¿Cuál rey de Judá inició una gran limpieza espiritual redescubriendo 'el libro de la Ley' en el templo?",
+            opciones: ["Ezequías", "Josías", "Roboam", "Jeroboán"],
+            correcta: 1,
+            explicacion: "Josías mandó leer la Ley al pueblo y eliminó la idolatría.",
+            referencia: "2 Reyes 22:8-13; 23:1-7"
+        },
+        {
+            pregunta: "Después del exilio en Babilonia, ¿el pueblo reconstruyó…?",
+            opciones: [
+                "El templo y luego los muros",
+                "Una flota naval enorme",
+                "Una alianza con Egipto",
+                "Un santuario secreto en Jericó"
+            ],
+            correcta: 0,
+            explicacion: "Primero el templo (Zorobabel), luego los muros (Nehemías).",
+            referencia: "Esdras 3:8-13; Nehemías 6:15-16"
+        },
+        {
+            pregunta: "¿Qué objeto sagrado representaba la presencia de Jehová durante el viaje por el desierto?",
+            opciones: [
+                "El arca del pacto",
+                "Una estatua de Moisés",
+                "Una columna de bronce de Faraón",
+                "Un tótem tribal"
+            ],
+            correcta: 0,
+            explicacion: "El arca del pacto iba delante del campamento.",
+            referencia: "Números 10:33-36"
+        },
+        {
+            pregunta: "¿Qué hicieron los israelitas para recordar cómo Jehová los protegió en el desierto durante 40 años?",
+            opciones: [
+                "Celebraban la Pascua",
+                "Levantaron un becerro de oro anual",
+                "Celebraban la Fiesta de las Cabañas (Tabernáculos)",
+                "Se rapaban la cabeza"
+            ],
+            correcta: 2,
+            explicacion: "Vivían en cabañas simbólicas para recordar la protección y guía de Jehová.",
+            referencia: "Levítico 23:33-43"
+        },
+        {
+            pregunta: "¿Qué juez hizo un voto imprudente antes de batalla y sufrió las consecuencias familiares?",
+            opciones: ["Jefté", "Gedeón", "Sansón", "Samuel"],
+            correcta: 0,
+            explicacion: "Jefté hizo un voto precipitado sin pensar en el resultado.",
+            referencia: "Jueces 11:30-35"
+        }
+    ],
+
+    "Principios Morales": [
+        {
+            pregunta: "Según Jesús, ¿cuál es el mandamiento más importante?",
+            opciones: [
+                "Acumular riquezas materiales",
+                "Amar a Jehová con todo tu corazón",
+                "Buscar venganza personal",
+                "Ser el más importante"
+            ],
+            correcta: 1,
+            explicacion: "Jesús dijo que amar a Jehová es el mandamiento principal.",
+            referencia: "Mateo 22:37-38"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús acerca de amar a los enemigos?",
+            opciones: [
+                "Ignóralos por completo",
+                "Persíguelos hasta ganar",
+                "Amen a sus enemigos y oren por ellos",
+                "Golpéenlos primero para que aprendan"
+            ],
+            correcta: 2,
+            explicacion: "Jesús enseñó el amor incluso hacia quienes te hacen daño.",
+            referencia: "Mateo 5:44"
+        },
+        {
+            pregunta: "¿Qué cualidad se describe como 'paciente y bondadosa' y que 'no busca sus propios intereses'?",
+            opciones: [
+                "El amor leal",
+                "El orgullo",
+                "La ambición",
+                "El temor"
+            ],
+            correcta: 0,
+            explicacion: "El amor verdadero no es egoísta ni se irrita fácilmente.",
+            referencia: "1 Corintios 13:4-7"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre juzgar a otros?",
+            opciones: [
+                "Juzguen para sentirse superiores",
+                "No juzguen hipócritamente, primero saquen la viga de su propio ojo",
+                "No existe el juicio moral",
+                "Critiquen siempre en público"
+            ],
+            correcta: 1,
+            explicacion: "Jesús condenó el juicio hipócrita.",
+            referencia: "Mateo 7:1-5"
+        },
+        {
+            pregunta: "Según Jesús, ¿qué hace realmente 'impuro' al hombre?",
+            opciones: [
+                "Comer sin lavarse las manos",
+                "No seguir costumbres humanas",
+                "Lo que sale del corazón y de la boca",
+                "Usar ropa vieja"
+            ],
+            correcta: 2,
+            explicacion: "Lo que sale del corazón —maldad, odio, inmoralidad— es lo que contamina.",
+            referencia: "Mateo 15:10-20"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre acumular tesoros en la Tierra?",
+            opciones: [
+                "Es la meta principal",
+                "Demuestra espiritualidad superior",
+                "No importa cómo los consigas",
+                "Acumulen tesoros en el cielo, no en la Tierra"
+            ],
+            correcta: 3,
+            explicacion: "Dijo que lo más importante es el tesoro espiritual.",
+            referencia: "Mateo 6:19-21"
+        },
+        {
+            pregunta: "¿Qué enseña la Biblia sobre el amor al dinero?",
+            opciones: [
+                "Es señal de bendición automática",
+                "Es la raíz de muchos males",
+                "Es requisito para servir a Dios",
+                "Es más importante que la familia"
+            ],
+            correcta: 1,
+            explicacion: "Advertencia de que el amor al dinero puede llevar a la ruina espiritual.",
+            referencia: "1 Timoteo 6:9-10"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre buscar la aprobación de los hombres al hacer obras buenas?",
+            opciones: [
+                "Háganlo para ser admirados",
+                "Díganlo siempre en voz alta",
+                "Háganlo en secreto; el Padre ve en lo secreto",
+                "Háganlo solo si hay cámaras"
+            ],
+            correcta: 2,
+            explicacion: "Jesús enseñó que la motivación debe ser pura, no orgullo.",
+            referencia: "Mateo 6:1-4"
+        },
+        {
+            pregunta: "¿Qué ilustración usó Jesús para enseñar misericordia y quién es realmente 'tu prójimo'?",
+            opciones: [
+                "El buen samaritano",
+                "El rico insensato",
+                "El administrador infiel",
+                "La higuera estéril"
+            ],
+            correcta: 0,
+            explicacion: "Mostró que el prójimo es quien actúa con compasión, no solo quien comparte tu grupo.",
+            referencia: "Lucas 10:29-37"
+        },
+        {
+            pregunta: "¿Qué actitud dijo Jesús que debían tener los que quieren ser grandes?",
+            opciones: [
+                "Dominar a otros",
+                "Tener poder político",
+                "Servir a los demás",
+                "Ser el más duro"
+            ],
+            correcta: 2,
+            explicacion: "‘El que quiera ser grande entre ustedes, que sea su servidor’.",
+            referencia: "Mateo 20:25-28"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre el perdón?",
+            opciones: [
+                "Perdona solo una vez",
+                "Perdona si la otra persona paga",
+                "Perdona si no hay testigos",
+                "Debes perdonar 'setenta y siete veces'"
+            ],
+            correcta: 3,
+            explicacion: "Mostró que el perdón no debe tener un límite pequeño.",
+            referencia: "Mateo 18:21-22"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre la ansiedad por las cosas materiales (comida, ropa)?",
+            opciones: [
+                "Es inevitable, no hay remedio",
+                "Busquen primero el Reino y la justicia de Dios",
+                "Cúlpense por no trabajar más",
+                "Preocúpense día y noche"
+            ],
+            correcta: 1,
+            explicacion: "Jesús animó a confiar en que el Padre sabe lo que necesitamos.",
+            referencia: "Mateo 6:31-33"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre el uso de la violencia para defenderlo cuando fue arrestado?",
+            opciones: [
+                "Animó a sus discípulos a pelear con espada",
+                "Dijo ‘el que use la espada, morirá por la espada’",
+                "Huyó dejando a todos peleando",
+                "Felicitó a Pedro por atacar"
+            ],
+            correcta: 1,
+            explicacion: "Jesús no fomentó la violencia física.",
+            referencia: "Mateo 26:52"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús acerca de mirar a otra persona con deseo sexual indebido?",
+            opciones: [
+                "No pasa nada si no haces nada físico",
+                "Es normal, Dios no lo nota",
+                "Ya es adulterio en el corazón",
+                "Solo aplica a personas casadas"
+            ],
+            correcta: 2,
+            explicacion: "Jesús llevó la moral más allá del acto externo.",
+            referencia: "Mateo 5:27-28"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre jurar por el cielo, la tierra o Jerusalén?",
+            opciones: [
+                "Háganlo para que la gente les crea",
+                "Juren todo el tiempo para ser respetados",
+                "Su palabra debe ser 'sí' o 'no' sin juramentos exagerados",
+                "Juren solo frente a líderes religiosos"
+            ],
+            correcta: 2,
+            explicacion: "Jesús enseñó honestidad directa, sin teatro.",
+            referencia: "Mateo 5:33-37"
+        },
+        {
+            pregunta: "Según la Biblia, ¿qué tipo de palabras debemos evitar porque pueden destruir a otros?",
+            opciones: [
+                "Palabras de ánimo",
+                "Palabras suaves",
+                "Palabras podridas / dañinas",
+                "Palabras amables"
+            ],
+            correcta: 2,
+            explicacion: "Se nos aconseja hablar para edificar, no para dañar.",
+            referencia: "Efesios 4:29-32"
+        },
+        {
+            pregunta: "¿Qué fruto del espíritu se menciona como 'paz' y 'autocontrol'?",
+            opciones: [
+                "El fruto del dinero",
+                "El fruto del orgullo personal",
+                "El fruto del espíritu de Dios",
+                "El fruto de la tradición humana"
+            ],
+            correcta: 2,
+            explicacion: "El fruto del espíritu incluye amor, gozo, paz, paciencia, etc.",
+            referencia: "Gálatas 5:22-23"
+        },
+        {
+            pregunta: "¿Qué enseña la Biblia sobre mostrar parcialidad (favoritismo) hacia los ricos?",
+            opciones: [
+                "Está bien si dan donaciones",
+                "Es sabio políticamente",
+                "Es injusto y no refleja la fe verdadera",
+                "Es obligatorio según la Ley"
+            ],
+            correcta: 2,
+            explicacion: "Se condena tratar mejor al rico que al pobre en la congregación.",
+            referencia: "Santiago 2:1-4"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús sobre la hipocresía religiosa?",
+            opciones: [
+                "Es necesaria para mantener autoridad",
+                "Es una tradición aceptable",
+                "Los hipócritas 'reciben su recompensa completa' cuando buscan ser vistos",
+                "Jehová no la nota"
+            ],
+            correcta: 2,
+            explicacion: "Jesús denunció hacer obras solo para la fama espiritual.",
+            referencia: "Mateo 6:1-5, 16"
+        },
+        {
+            pregunta: "¿Qué ilustra la parábola del rico y Lázaro en cuanto a la arrogancia y la falta de compasión?",
+            opciones: [
+                "Que la riqueza demuestra aprobación eterna",
+                "Que Dios ignora al pobre",
+                "Que la indiferencia hacia el necesitado trae juicio",
+                "Que todos los ricos son malvados"
+            ],
+            correcta: 2,
+            explicacion: "Advierte del peligro de la dureza de corazón.",
+            referencia: "Lucas 16:19-31"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús que hacen las personas realmente humildes?",
+            opciones: [
+                "Presumen de su humildad",
+                "Buscan ser servidas",
+                "Reconocen su necesidad espiritual",
+                "Se comparan para sentirse mejor"
+            ],
+            correcta: 2,
+            explicacion: "‘Felices los que reconocen su necesidad espiritual’.",
+            referencia: "Mateo 5:3"
+        },
+        {
+            pregunta: "¿Qué dijo Jesús que debíamos hacer si alguien tiene 'algo en contra de ti'?",
+            opciones: [
+                "Ignorarlo",
+                "Atacarlo primero",
+                "Buscar la paz y arreglar las cosas",
+                "Contarle a todos menos a esa persona"
+            ],
+            correcta: 2,
+            explicacion: "Jesús enseñó reconciliación activa.",
+            referencia: "Mateo 5:23-24"
+        },
+        {
+            pregunta: "Según la enseñanza cristiana, ¿qué relación debe haber entre fe y obras?",
+            opciones: [
+                "Solo fe sin obras",
+                "Obras sin fe está perfecto",
+                "La fe verdadera se demuestra por las obras",
+                "Ninguna de las dos importa"
+            ],
+            correcta: 2,
+            explicacion: "‘La fe sin obras está muerta’.",
+            referencia: "Santiago 2:17-20"
+        },
+        {
+            pregunta: "¿Qué dice la Biblia sobre la lengua (lo que decimos)?",
+            opciones: [
+                "Es imposible controlarla, así que no importa",
+                "No tiene impacto real",
+                "Puede ser como fuego que causa gran daño",
+                "Solo importa si dices malas palabras explícitas"
+            ],
+            correcta: 2,
+            explicacion: "Advierte del poder destructivo de las palabras irresponsables.",
+            referencia: "Santiago 3:5-10"
+        },
+        {
+            pregunta: "¿Qué actitud enseñó Jesús respecto a ‘poner la otra mejilla’?",
+            opciones: [
+                "Ser violento rápidamente",
+                "Buscar siempre venganza",
+                "Responder con autocontrol en lugar de odio personal",
+                "Negar que existan agresiones"
+            ],
+            correcta: 2,
+            explicacion: "Eso enseña evitar la escalación de violencia por orgullo.",
+            referencia: "Mateo 5:38-39"
+        },
+        {
+            pregunta: "¿Qué pidió Jesús en oración incluso por quienes lo estaban ejecutando?",
+            opciones: [
+                "Castígalos ahora mismo",
+                "Que sufran el doble",
+                "Padre, perdónalos",
+                "Déjalos sin comida"
+            ],
+            correcta: 2,
+            explicacion: "Mostró el máximo ejemplo de perdón bajo presión extrema.",
+            referencia: "Lucas 23:33-34"
+        },
+        {
+            pregunta: "¿Qué enseña la Biblia sobre la ansiedad extrema por el futuro?",
+            opciones: [
+                "Es una muestra de fe fuerte",
+                "Es señal de inteligencia",
+                "No añade ni una hora a tu vida",
+                "Es la responsabilidad cristiana principal"
+            ],
+            correcta: 2,
+            explicacion: "Jesús dijo que preocuparse obsesivamente no resuelve nada.",
+            referencia: "Mateo 6:27"
+        },
+        {
+            pregunta: "¿Cuál es el 'fruto' que Jesús dijo que revela si un árbol (o una persona) es bueno o malo?",
+            opciones: [
+                "Su vestimenta",
+                "Su riqueza material",
+                "Lo que produce con su conducta",
+                "Su linaje familiar"
+            ],
+            correcta: 2,
+            explicacion: "Jesús dijo que se conoce el árbol por su fruto.",
+            referencia: "Mateo 7:16-20"
+        },
+        {
+            pregunta: "¿Qué comparación usó Jesús para enseñar que debemos construir la vida sobre obedecer sus palabras?",
+            opciones: [
+                "Un ladrón en la noche",
+                "Una semilla en espinas",
+                "Una casa construida sobre la roca",
+                "Una red llena de peces"
+            ],
+            correcta: 2,
+            explicacion: "El fundamento sólido resiste tormentas.",
+            referencia: "Mateo 7:24-27"
+        },
+        {
+            pregunta: "¿Qué hizo Jesús con los niños pequeños cuando los discípulos trataban de apartarlos?",
+            opciones: [
+                "Los regañó por interrumpir",
+                "Los ignoró porque eran pequeños",
+                "Los recibió, los bendijo y dijo que el Reino pertenece a los que son como ellos",
+                "Les pidió pagar el diezmo"
+            ],
+            correcta: 2,
+            explicacion: "Mostró ternura y dijo que debemos ser como ellos.",
+            referencia: "Marcos 10:13-16"
+        }
+    ]

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trivia Bíblica - Ruleta</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div class="game-wrapper">
+
+  <!-- PANEL IZQUIERDO (RULETA, PROGRESO, PUNTOS) -->
+  <section class="panel">
+    <header class="panel-header">
+      <div class="panel-title">
+        <span>Trivia Bíblica</span>
+        <span class="sub">Gira la ruleta y responde</span>
+      </div>
+
+      <div class="score-box">
+        <div>Puntuación</div>
+        <div class="score-value" id="score">0</div>
+      </div>
+    </header>
+
+    <div class="wheel-container">
+      <!-- Aguja fija -->
+      <div class="pointer"></div>
+
+      <div class="wheel" id="wheel">
+        <!-- Texto curvo de categorías en la ruleta -->
+        <svg class="wheel-svg" viewBox="0 0 100 100" aria-hidden="true">
+          <defs>
+            <!-- Arco base en la parte superior del círculo (centrado visualmente) -->
+            <path id="arc-base"
+                  d="M 20 20
+                     A 42 42 0 0 1 80 20" />
+          </defs>
+
+          <!-- Personajes (celeste) -->
+          <g transform="rotate(36 50 50)">
+            <text class="arc-text arc-personajes">
+              <textPath href="#arc-base" startOffset="50%" text-anchor="middle">
+                PERSONAJES
+              </textPath>
+            </text>
+          </g>
+
+          <!-- Profecías (beige) -->
+          <g transform="rotate(108 50 50)">
+            <text class="arc-text arc-profecias">
+              <textPath href="#arc-base" startOffset="50%" text-anchor="middle">
+                PROFECÍAS
+              </textPath>
+            </text>
+          </g>
+
+          <!-- Evangelios (verde) -->
+          <g transform="rotate(180 50 50)">
+            <text class="arc-text arc-evangelios">
+              <textPath href="#arc-base" startOffset="50%" text-anchor="middle">
+                EVANGELIOS
+              </textPath>
+            </text>
+          </g>
+
+          <!-- Historia de Israel (vino) -->
+          <g transform="rotate(252 50 50)">
+            <text class="arc-text arc-israel arc-long">
+              <textPath href="#arc-base" startOffset="50%" text-anchor="middle">
+                HISTORIA DE ISRAEL
+              </textPath>
+            </text>
+          </g>
+
+          <!-- Principios Morales (dorado) -->
+          <g transform="rotate(324 50 50)">
+            <text class="arc-text arc-morales arc-long">
+              <textPath href="#arc-base" startOffset="50%" text-anchor="middle">
+                PRINCIPIOS MORALES
+              </textPath>
+            </text>
+          </g>
+        </svg>
+
+        <!-- Botón central visual -->
+        <div class="wheel-center" id="wheelCenter">
+          Gira<br>la<br>ruleta
+        </div>
+      </div>
+    </div>
+
+    <!-- Progreso/aciertos por categoría -->
+    <div class="progress-box">
+      <div class="progress-row">
+        <span class="progress-cat">PERSONAJES</span>
+        <span class="progress-val" id="prog-personajes">0</span>
+      </div>
+      <div class="progress-row">
+        <span class="progress-cat">PROFECÍAS</span>
+        <span class="progress-val" id="prog-profecias">0</span>
+      </div>
+      <div class="progress-row">
+        <span class="progress-cat">EVANGELIOS</span>
+        <span class="progress-val" id="prog-evangelios">0</span>
+      </div>
+      <div class="progress-row">
+        <span class="progress-cat">HISTORIA DE ISRAEL</span>
+        <span class="progress-val" id="prog-israel">0</span>
+      </div>
+      <div class="progress-row">
+        <span class="progress-cat">PRINCIPIOS MORALES</span>
+        <span class="progress-val" id="prog-morales">0</span>
+      </div>
+    </div>
+
+    <button class="spin-button" id="spinBtn">Girar Ruleta</button>
+
+    <div class="footer-note">
+      Responde bien para sumar puntos.
+    </div>
+  </section>
+
+  <!-- PANEL DERECHO (PREGUNTA Y RESPUESTAS) -->
+  <section class="panel">
+    <header class="panel-header">
+      <div class="panel-title">
+        <span>Pregunta actual</span>
+        <span class="sub">Selecciona la respuesta correcta</span>
+      </div>
+    </header>
+
+    <div class="question-area">
+      <div>
+        <div class="current-category">
+          CATEGORÍA:
+          <span class="current-category-badge" id="categoryLabel">—</span>
+        </div>
+
+        <div class="question-text" id="questionText">
+          Gira la ruleta para obtener una pregunta.
+        </div>
+
+        <div class="options-list" id="optionsList">
+          <!-- Opciones dinámicas -->
+        </div>
+      </div>
+
+      <div class="result-box" id="resultBox">
+        <div id="resultMain" class="result-main"></div>
+        <div id="resultRef" class="result-ref"></div>
+        <div class="next-hint">Pulsa "Girar Ruleta" para otra pregunta.</div>
+      </div>
+    </div>
+
+    <div class="small-separator"></div>
+    <div class="footer-note">
+      Basado en principios y redacción de la Traducción del Nuevo Mundo.
+    </div>
+  </section>
+
+</div>
+
+<!-- Banco de preguntas (tu archivo con las 30 por sección) -->
+<script src="questions.js"></script>
+<!-- Lógica del juego -->
+<script src="script.js"></script>
+</body>
+</html>
